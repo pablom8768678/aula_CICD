@@ -1,7 +1,12 @@
 #include <stdio.h>
+#include <assert.h>
 
-int main() {
-  printf("Alteração de código testada com sucesso!\n");
-  return 0;
+void somar(){
+  //Função de somar simples
+  printf("A soma é: %d\n", 1 + 1);
 }
 
+int main(){
+  somar();
+  return 0;
+}
