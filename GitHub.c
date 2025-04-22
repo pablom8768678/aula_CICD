@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  printf("Olá, Github Acction!\n");
+  printf("Alteração de código testada com sucesso!\n");
   return 0;
 }
 
