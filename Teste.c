@@ -8,6 +8,6 @@ void testar(){
 }
 
 int main(){
-  teste();
+  testar();
   return 0;
 }
